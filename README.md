@@ -31,3 +31,6 @@ Used NetBeans IDE for streamlined development, debugging, and GUI design.
 
 📌 Outcome:
 Simulated a complete digital banking system, improving access, efficiency, and financial service delivery. Gained hands-on experience in Java-MySQL integration, secure coding, modular architecture, and the evolution of payment systems in India's digital economy.
+
+<img width="757" height="487" alt="image" src="https://github.com/user-attachments/assets/ec690f9f-7e3b-4782-a038-0b47b1d99af0" />
+
